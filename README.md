@@ -2,7 +2,7 @@
 Neki od projekata na kojima sam radila kroz fakultetsko obrazovanje<br/>
 
 Dizajn aplikacije GameDate u Figmi <br/>
-&emsp;<li>https://www.figma.com/design/3iyzfq6acNZjDNFckxh1lj/GameDate---prototip?node-id=0-1&t=6WglQlgG9kfswgSQ-1
+&ensp; <li>https://www.figma.com/design/3iyzfq6acNZjDNFckxh1lj/GameDate---prototip?node-id=0-1&t=6WglQlgG9kfswgSQ-1
 <br/><br/>
 Projekt iz kolegija Biometrijski sustavi<br/>
 <li>Analiza performaski biometrijskih sustava
