@@ -1,5 +1,5 @@
 # projekti
-Projekti na kojima sam radila kroz fakultetsko obrazovanje
+Neki od projekata na kojima sam radila kroz fakultetsko obrazovanje<br/>
 
 Dizajn aplikacije GameDate u Figmi <br/>
 https://www.figma.com/design/3iyzfq6acNZjDNFckxh1lj/GameDate---prototip?node-id=0-1&t=6WglQlgG9kfswgSQ-1
@@ -24,5 +24,13 @@ Projekt iz kolegija Dizajn modernih organizacija<br/>
 
 Projekt iz kolegija Osnove financijskog izvještavanja i poslovnog plana<br/>
 [Barišić_Lovasić_Novak_Umjetnost_u_niti.pdf](https://github.com/user-attachments/files/18273596/Barisic_Lovasic_Novak_Umjetnost_u_niti.pdf)
+
+Projekt iz kolegija Projektiranje informacijskih sustava<br/>
+[PIS_Lovasić_Marković_Novak.pdf](https://github.com/user-attachments/files/18277865/PIS_Lovasic_Markovic_Novak.pdf)
+
+Projekt iz kolegija Modeliranje poslovnih procesa <br/>
+[Projekt_mpp.pdf](https://github.com/user-attachments/files/18277889/Projekt_mpp.pdf)
+
+
 
 
