@@ -5,19 +5,22 @@ Dizajn aplikacije GameDate u Figmi <br/>
 <li>https://www.figma.com/design/3iyzfq6acNZjDNFckxh1lj/GameDate---prototip?node-id=0-1&t=6WglQlgG9kfswgSQ-1
 
 Projekt iz kolegija Biometrijski sustavi<br/>
-<li>[Analiza_Performansi_Biometrijskih_Sustava - Belinić, Lovasić.pdf](https://github.com/user-attachments/files/18273508/Analiza_Performansi_Biometrijskih_Sustava.-.Belinic.Lovasic.pdf)
+<li>Analiza performaski biometrijskih sustava
+<li></li>https://github.com/user-attachments/files/18273508/Analiza_Performansi_Biometrijskih_Sustava.-.Belinic.Lovasic.pdf
 
 Projekt iz kolegija Strategijski menadžment<br/>
-<li>[SM_InovaJewels_-Belinic_Grzelj_Lovasic.pdf](https://github.com/user-attachments/files/18273510/SM_InovaJewels_-Belinic_Grzelj_Lovasic.pdf)
+<li>https://github.com/user-attachments/files/18273510/SM_InovaJewels_-Belinic_Grzelj_Lovasic.pdf
 
 Projekt iz kolegija Korporacijsko upravljanje<br/>
 <li>[CakoveckiMlinovi - Belinic_Lovasic.pdf](https://github.com/user-attachments/files/18273514/CakoveckiMlinovi.-.Belinic_Lovasic.pdf)
 
 Projekt iz kolegija Skladišta podataka i poslovna inteligencija<br/>
-<li>[Prikaz_marketinskih_podataka.pdf](https://github.com/user-attachments/files/18273520/Prikaz_marketinskih_podataka.pdf)
+<li>Prikaz marketinškig podataka kroz vizualizaciju u Tablea-u alatu
+<li>https://github.com/user-attachments/files/18273520/Prikaz_marketinskih_podataka.pdf
 
 Projekt iz kolegija Digitalno poslovanje<br/>
-<li>[Lovasić_Patricija_Vraćanje_višestrukih_tipova_podataka.pdf](https://github.com/user-attachments/files/18273540/Lovasic_Patricija_Vracanje_visestrukih_tipova_podataka.pdf)
+<li>Vraćanje višestrukih tipova podataka u Solidity-u
+<li>https://github.com/user-attachments/files/18273540/Lovasic_Patricija_Vracanje_visestrukih_tipova_podataka.pdf
 
 Projekt iz kolegija Dizajn modernih organizacija<br/>
 <li>[IoT - Patricija Lovasić.pdf](https://github.com/user-attachments/files/18273586/IoT.-.Patricija.Lovasic.pdf)
