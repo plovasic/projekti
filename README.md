@@ -1,10 +1,10 @@
 # projekti
 Projekti na kojima sam radila kroz fakultetsko obrazovanje
 
-Dizajn aplikacije GameDate u Figmi
+Dizajn aplikacije GameDate u Figmi <br/>
 https://www.figma.com/design/3iyzfq6acNZjDNFckxh1lj/GameDate---prototip?node-id=0-1&t=6WglQlgG9kfswgSQ-1
 
-Projekt iz kolegija Biometrijski sustavi
+Projekt iz kolegija Biometrijski sustavi<br/>
 [Analiza_Performansi_Biometrijskih_Sustava - Belinić, Lovasić.pdf](https://github.com/user-attachments/files/18273508/Analiza_Performansi_Biometrijskih_Sustava.-.Belinic.Lovasic.pdf)
 
 Projekt iz kolegija Strategijski menadžment
