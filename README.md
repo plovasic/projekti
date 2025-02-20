@@ -5,6 +5,10 @@ Neki od projekata na kojima sam radila kroz fakultetsko obrazovanje:
 ## Dizajn aplikacije GameDate u Figmi
 - [GameDate Prototip](https://www.figma.com/design/3iyzfq6acNZjDNFckxh1lj/GameDate---prototip?node-id=0-1&t=6WglQlgG9kfswgSQ-1)
 
+## Projekt iz kolegija Strateško planiranje informacijskih sustava
+- U ovom projektu morali smo izraditi strateški plan informacijskog sustava za srednje veliko poduzeće, analizirajući viziju, misiju, strateške ciljeve i odabrati odgovarajuću korporacijsku strategiju. Zatim smo identificirali ključne poslovne procese, procijenili prioritete informatizacije koristeći metode poput BCG analize i Porterovog lanca vrijednosti te ocijenili očekivane učinke i izvedivost projekta pomoću SWOT analize. Također, bilo je potrebno predložiti temeljiti preustroj poslovnog procesa koristeći suvremene ICT alate te analizirati opseg, izvedbu i koristi rješenja.
+  - [SPIS - eseji.pdf](https://github.com/user-attachments/files/18888413/SPIS.-.eseji.pdf)
+
 ## Projekt iz kolegija Biometrijski sustavi
 - Analiza performaski biometrijskih sustava
   - [Analiza Performansi Biometrijskih Sustava](https://github.com/user-attachments/files/18273508/Analiza_Performansi_Biometrijskih_Sustava.-.Belinic.Lovasic.pdf)
